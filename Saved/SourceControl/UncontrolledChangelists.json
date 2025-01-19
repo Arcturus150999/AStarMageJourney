@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/WD_StarCoins.uasset"
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/WD_StarCoins.uasset",
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/WD_StarCount.uasset",
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/Level/LevelV2_01.umap",
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/BP_StarCoinsDisapear.uasset",
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/BP_StarGate.uasset",
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/BP_StarMageCharacter.uasset",
+				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/WD_StarCoinsV2.uasset"
 			]
 		}
 	]
