@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/brassart/Unreal/AStarMageJourney/Content/PersoFolder/Level/LevelV2_01.umap",
+				"D:/brassart/Unreal/AStarMageJourney/Content/PersoFolder/BP/StarCoins/BP_StarCoins.uasset",
+				"D:/brassart/Unreal/AStarMageJourney/Content/PersoFolder/BP/Death/BP_CheckpointActivate.uasset",
+				"D:/brassart/Unreal/AStarMageJourney/Content/PersoFolder/BP/BP_StarMageCharacter.uasset",
+				"D:/brassart/Unreal/AStarMageJourney/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/BP/StarCoins/WD_StarCoins.uasset",
 				"C:/Users/User/OneDrive/Bureau/AStarMageJourny/AStarMageJourney/Content/PersoFolder/Level/LevelV2_01.umap",
